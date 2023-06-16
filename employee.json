@@ -1,0 +1,39 @@
+{
+  "employees": [
+    {
+      "Name": "Rajesh",
+      "DOB": "26/10/2000",
+      "Height": 175,
+      "City": "Rajahmundry",
+      "State": "Andhra Pradesh"
+    },
+    {
+      "Name": "Ravi",
+      "DOB": "19/06/1999",
+      "Height": 172,
+      "City": "Hyderabad",
+      "State": "Telangana"
+    },
+    {
+      "Name": "Kumar",
+      "DOB": "16/04/1999",
+      "Height": 180,
+      "City": "Hitech city",
+      "State": "Telangana"
+    },
+    {
+      "Name": "Swathi",
+      "DOB": "25/09/2000",
+      "Height": 168,
+      "City": "KPHB",
+      "State": "Telangana"
+    },
+    {
+      "Name": "Mounika",
+      "DOB": "21/10/1998",
+      "Height": 173,
+      "City": "Vijaywada",
+      "State": "Andhra Pradesh"
+    }
+  ]
+}
